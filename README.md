@@ -3,11 +3,11 @@
 ---
 
 ## Features ; </br>
-- Convert File or whatever to Byte code
+- **Convert File or whatever to Byte code**
 
 ## How to use ? </br>
-- download vs or vscode
-- debug / run
+- **Download vs or vscode**
+- **Debug / run**
 
 ## Showcase : </br>
 ![image img](/1.png)</br>
