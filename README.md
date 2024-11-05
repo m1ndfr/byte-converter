@@ -12,5 +12,8 @@
 ## Showcase ; </br>
 ![image img](/1.png)</br>
 
+## Contact ;
+- **Any Error ? Contact me on discord (smth.oppenheimer)**
 ---
+
 # DON'T FORGET TO STAR THIS REPOS 💖
