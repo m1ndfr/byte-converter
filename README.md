@@ -13,4 +13,4 @@
 ![image img](/1.png)</br>
 
 ---
-# DON'T FORGET TO STAR THIS REPOS :)
+# DON'T FORGET TO STAR THIS REPOS 💖
