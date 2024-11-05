@@ -1,14 +1,13 @@
 # Byte Converter
 
 ---
-> HOW TO USE : </br>
-```
-1. download vs or vscode
-2. debug / run
-3. enjoy 
-```
+
 ## Features ; </br>
 - Convert File or whatever to Byte code
+
+## How to use ? </br>
+- download vs or vscode
+- debug / run
 
 ## Showcase : </br>
 ![image img](/1.png)</br>
