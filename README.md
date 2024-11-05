@@ -6,7 +6,9 @@
 - **Convert File or whatever to Byte code**
 
 ## How to use ? </br>
-- **Download vs or vscode**
+- **Download visual studio or vscode**
+- **Install C++**
+- **Dowmload source code**
 - **Debug / run**
 
 ## Showcase ; </br>
