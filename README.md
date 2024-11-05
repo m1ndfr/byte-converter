@@ -9,7 +9,8 @@
 - **Download vs or vscode**
 - **Debug / run**
 
-## Showcase : </br>
+## Showcase ; </br>
 ![image img](/1.png)</br>
 
+---
 # DON'T FORGET TO STAR THIS REPOS :)
